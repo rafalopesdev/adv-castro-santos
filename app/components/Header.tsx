@@ -40,7 +40,7 @@ const Header = () => {
         alt="Banner Top"
         width={1440}
         height={600}
-        className="w-screen h-screen object-scale-down absolute"
+        className="w-screen h-screen object-cover  absolute"
       />
     </div>
   );
